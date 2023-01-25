@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/embed/AOSwwqVjNZlDO)](https://harshit4888.io)
+
 
 <h1 align="center">Hi 👋, I'm Harshit Verma</h1>
 <h3 align="center">Someone who is passionate about learning new technical skills.</h3>
