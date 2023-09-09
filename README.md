@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshit83668810" target="blank"><img src="https://img.shields.io/twitter/follow/harshit83668810?logo=twitter&style=for-the-badge" alt="harshit83668810" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript & React**
+- 🌱 I’m currently learning **Python for Data Science**
 
 - 💬 Ask me about **Python , SQL , Power BI , Excel**
 
